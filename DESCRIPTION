@@ -1,0 +1,7 @@
+Package: SDG
+Type: Package
+Title: Synthetic Data Generation
+Version: 1.0
+Date: 2015-02-17
+Author: Javier Asenjo Villamayor <javier.asenjo.villamayor@gmail.com>
+Description: There already exists many approaches to the generation of synthetic data in EDM. However, these approaches are just developed in particular conditions to fit the specific data of the corresponding study and model. Since it is a very useful tool, the goal of this package is to generate synthetic data. The package is very flexible while introducing parameters and very adaptive depending on the information the user owns. The structure of the library is based on a collection of functions that generate students' performance data according to different models. Then, there are also functions to generate different types of matrices and functions to plot the information in a really useful and understandable way.
